@@ -6,8 +6,8 @@ import 'package:quicktask/signup.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  final keyApplicationId = '6fbiMdCVmsxeuWeNW46K2FPSPLIBLA6Ye4hW8ags';
-  final keyClientKey = '7Gz9NEpshdDU3C9ZFckGHNr3yGEFaYniV7rGzIkY';
+  final keyApplicationId = 'Application ID';
+  final keyClientKey = 'Client Key';
   final keyParseServerUrl = 'https://parseapi.back4app.com';
 
   await Parse().initialize(keyApplicationId, keyParseServerUrl,
