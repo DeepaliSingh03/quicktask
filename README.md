@@ -1,6 +1,6 @@
 # quicktask
 
-A new Flutter project.
+QuickTask is a task management app build using Flutter and Back4App
 
 ## Getting Started
 
